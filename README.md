@@ -3,7 +3,6 @@
 <p align="center">
   <strong>Data Analyst · Investment Analytics · Quantitative Research</strong><br>
   Master of Business Data Analytics · Bond University, Australia<br>
-  Gold Coast · Open to relocate anywhere
 </p>
 
 <p align="center">
