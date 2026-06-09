@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Data Analyst · Investment Analytics · Quantitative Research</strong><br>
   Master of Business Data Analytics · Bond University, Australia<br>
-  Bloomberg Market Concepts (BMC) Certified · Open to relocate anywhere
+  Gold Coast · Open to relocate anywhere
 </p>
 
 <p align="center">
