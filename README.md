@@ -23,8 +23,8 @@ I'm drawn to roles where analytical rigour and financial context go hand in hand
 
 | Repo | What it does | Stack |
 |------|-------------|-------|
-| [📊 portfolio-analytics-python](https://github.com/lorena-brant/portfolio-analytics-python) | Sharpe, Sortino, Jensen's alpha, Fama-French 3/5-factor regressions, efficient frontier, Plotly dashboard | Python · statsmodels · Plotly |
-| [📈 trading-strategy-backtesting](https://github.com/lorena-brant/trading-strategy-backtesting) | MA crossover, MACD, RSI strategies with walk-forward validation and performance tearsheet | Python · pandas · matplotlib |
+| [📊 portfolio-analytics-python](https://github.com/lorena-brant/portfolio-analytics-python) | Sharpe, Sortino, Jensen's alpha, Fama-French 3/5-factor regressions, efficient frontier | Python · statsmodels · Plotly |
+| [📈 trading-strategy-backtesting](https://github.com/lorena-brant/trading-strategy-backtesting) | MA crossover, MACD, RSI strategies with walk-forward validation and performance tearsheet | Python · statsmodels · seaborn · scipy |
 | [🏦 credit-risk-ml-classification](https://github.com/lorena-brant/credit-risk-ml-classification) | Income classification pipeline on 48k-record banking dataset with SHAP explainability | scikit-learn · XGBoost · SHAP |
 | [🧠 deep-learning-financial-prediction](https://github.com/lorena-brant/deep-learning-financial-prediction) | LSTM for equity return forecasting with walk-forward validation and honest benchmark comparison | PyTorch · Keras · TensorFlow |
 | [🗄️ financial-data-pipeline-sql](https://github.com/lorena-brant/financial-data-pipeline-sql) | ETL pipeline: live API → PostgreSQL (Supabase) → Flask dashboard with cash flow KPIs | Python · SQL · Flask · Supabase |
